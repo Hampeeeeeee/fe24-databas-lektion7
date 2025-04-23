@@ -1,0 +1,27 @@
+{
+  "name": "fe24-databas-lektion7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hampeeeeeee/fe24-databas-lektion7.git"
+  },
+  "author": "Hampus Svensson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hampeeeeeee/fe24-databas-lektion7/issues"
+  },
+  "homepage": "https://github.com/Hampeeeeeee/fe24-databas-lektion7#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  }
+}
